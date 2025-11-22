@@ -1,0 +1,3 @@
+<root>
+<employee><id>1</id><name>Ali</name><salary>9000</salary></employee><employee><id>2</id><name>Kamal</name><salary>22000</salary></employee><employee><id>3</id><name>Amal</name><salary>23000</salary></employee><employee><id>4</id><name>Lina</name><salary>17000</salary></employee><employee><id>5</id><name>Omar</name><salary>25000</salary></employee><employee><id>6</id><name>Sara</name><salary>21000</salary></employee><employee><id>7</id><name>Nour</name><salary>18000</salary></employee><employee><id>8</id><name>Youssef</name><salary>24000</salary></employee><employee><id>9</id><name>Mona</name><salary>20000</salary></employee><employee><id>10</id><name>Tarek</name><salary>26000</salary></employee>
+</root>
